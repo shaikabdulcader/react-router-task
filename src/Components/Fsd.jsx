@@ -35,7 +35,7 @@ function Fsd() {
       title:
         "Horizontal vs Vertical Scaling for Efficient System Design",
       description:
-        "In the world of system design, envision a digital skyscraper – a multifaceted structure built",
+        "In the world of system design, envision a digital skyscraper - a multifaceted structure built",
       image: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Horizontal-vs-Vertical-Scaling-for-Efficient-System-Design.webp",
       date: '10 November 2023',
       comment : 'No Comments'
@@ -99,19 +99,19 @@ function Fsd() {
     },
     {
       id: 11,
-      title: "How Long Would It Take to Be a Full Stack Developer?",
+      title: "Top Differences: Full Stack Developer vs Software Engineer 2024",
       description:
-        "Have you ever wondered how much time it would take to become a skilled Full",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/how-long-it-would-it-take-to-learn-full-stack-development_-1536x804.webp",
-      date: '4 August 2023',
+        "A Full Stack Developer is a tech all-rounder. They work on both the front and",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Full-Stack-Developer-vs-Software-Engineer-.webp",
+      date: '15 November 2023',
       comment : 'No Comments'
     },
     {
       id: 12,
-      title: "How Long Would It Take to Be a Full Stack Developer?",
+      title: "Top 10 Product-Based Companies for Full-Stack Developers [2024]",
       description:
         "Have you ever wondered how much time it would take to become a skilled Full",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/how-long-it-would-it-take-to-learn-full-stack-development_-1536x804.webp",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Horizontal-vs-Vertical-Scaling-for-Efficient-System-Design.webp",
       date: '4 August 2023',
       comment : 'No Comments'
     },
