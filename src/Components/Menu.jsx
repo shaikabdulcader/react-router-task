@@ -28,7 +28,7 @@ function Menu() {
             <Link to={'/fsd'} className={`nav-link ${activeTab === '/fsd' ? 'active' : ''}`} onClick={() => handleTabClick('/fsd')}>
               Full Stack Development
             </Link>
-            <Link to={'/dataScience'} className={`nav-link ${activeTab === '/dataScience' ? 'active' : ''}`} onClick={() => handleTabClick('/dataScience')}>
+            <Link to={'/datascience'} className={`nav-link ${activeTab === '/datascience' ? 'active' : ''}`} onClick={() => handleTabClick('/datascience')}>
               Data Science
             </Link>
             <Link to={'/cybersecurity'} className={`nav-link ${activeTab === '/cybersecurity' ? 'active' : ''}`} onClick={() => handleTabClick('/cybersecurity')}>
